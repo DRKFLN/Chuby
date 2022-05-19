@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends Pickable
+
+class_name DeathArea
+
+func pick_up():
+	.pick_up()
+"
+
+[node name="Pickable" type="StaticBody2D"]
+collision_layer = 8
+collision_mask = 0
+script = SubResource( 1 )
