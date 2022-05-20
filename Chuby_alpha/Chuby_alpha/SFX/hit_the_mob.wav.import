@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hit_the_mob.wav-70b2649340d300afae4b1522dc563b45.sample"
+
+[deps]
+
+source_file="res://SFX/hit_the_mob.wav"
+dest_files=[ "res://.import/hit_the_mob.wav-70b2649340d300afae4b1522dc563b45.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
